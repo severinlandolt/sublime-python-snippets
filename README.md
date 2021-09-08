@@ -5,4 +5,4 @@ https://user-images.githubusercontent.com/41927988/132428826-22915182-ebbb-49c6-
 
 * **Intuitive.** Directly add snippets without searching. Tabbable structure for easy completion.
 * **Flexible.** Produce your own snippets from your code, tailored to your needs.
-* **Lightweight.** A handful useful snippets as a foundation for complex structures.
+* **Lightweight.** A handful of useful snippets are the foundation of complex structures.
